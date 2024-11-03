@@ -1,0 +1,40 @@
+.cabecalho
+{
+    font-size: 250%;
+    background-color: rgb(91, 12, 110);
+    padding: 20px;
+    text-align: center;
+}
+body
+{
+    color: white;
+    font-size: 250%;
+    background-color: black
+}
+.players ul li
+{
+    font-size: 50%;
+    color: white;
+    width: 18%;
+}
+.players p
+{
+    font-size: 50%;
+    color: white;
+    width: 18%;
+}
+aside
+{
+    float: right;
+    background-color: rgb(91,12,110);
+    padding: 10px;
+}
+.links
+{
+    font-size: 80%;
+}
+.links ul li a
+{
+    font-size: 80%;
+    color: white;
+}
