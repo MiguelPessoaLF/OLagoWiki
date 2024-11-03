@@ -1,1 +1,1 @@
-A segunda versão do site, ja tem algumas escolhas mais eficientes de design e de mecanicas css, para fazer funcionar, basta baixar o arquivo OrdemWiki.zip, e descompilar em uma outra pasta criada no seu computador depois é so abrir o arquivo OrdemWiki.html que ja deve estar funcionando.
+A segunda versão do site, ja tem algumas escolhas mais eficientes de design e de mecanicas css, para fazer funcionar, basta baixar o arquivo OrdemWiki.zip, e descompilar em uma outra pasta criada no seu computador depois é so abrir o arquivo OLagoWiki.html que ja deve estar funcionando.
