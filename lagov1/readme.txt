@@ -1,1 +1,1 @@
-
+A primeira versão do site, simples e estatica, para fazer funcionar, basta baixar o arquivo OrdemWiki.zip, e descompilar em uma outra pasta criada no seu computador depois é so abrir o arquivo OrdemWiki.html que ja deve estar funcionando.
